@@ -16,14 +16,6 @@
 
 !\[License](https://img.shields.io/badge/License-MIT-yellow)
 
-\## 👥 Contributors
-
-| Name | Role |
-
-|------|------|
-
-| Sakshi Kumari | AI / Computer Vision |
-
 \## 🔗 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/sakshi-1kumari-  
