@@ -24,6 +24,12 @@
 
 | Sakshi Kumari | AI / Computer Vision |
 
+\## 🔗 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/sakshi-1kumari-  
+
+Email: sakshi62992@gmail.com
+
 
 
 
