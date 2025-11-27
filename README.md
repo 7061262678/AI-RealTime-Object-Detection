@@ -1,3 +1,11 @@
+<p align="center">
+
+&nbsp; <img src="https://img.shields.io/badge/AI%20OBJECT%20DETECTION%20%26%20TRACKING-Project-blueviolet?style=for-the-badge">
+
+</p>
+
+
+
 !\[Python](https://img.shields.io/badge/Python-3.8+-blue)
 
 !\[YOLOv8](https://img.shields.io/badge/YOLOv8-Object%20Detection-red)
